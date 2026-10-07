@@ -1,6 +1,6 @@
 # Portfólio de Algoritmos e Lógica de Programação em Python
 
-Projeto acadêmico desenvolvido durante meus estudos de **Algoritmos e Lógica de Programação**, reunindo exercícios e desafios implementados em **Python** e **pseudocódigo**.
+Projeto acadêmico desenvolvido no **1º semestre de Ciência da Computação na Unisagrado, em 2025**, reunindo exercícios e desafios implementados em **Python** e **pseudocódigo**.
 
 O objetivo deste repositório é registrar minha evolução na resolução de problemas, construção de algoritmos e aplicação prática de conceitos fundamentais de programação.
 
@@ -46,7 +46,7 @@ Entre os exercícios desenvolvidos estão:
 
 ## 🎓 Contexto acadêmico
 
-Este portfólio faz parte da minha formação em **Gestão da Tecnologia da Informação (GTI)** e tem como objetivo documentar minha evolução em programação e lógica computacional.
+Este portfólio foi desenvolvido durante o **1º semestre de Ciência da Computação na Unisagrado, em 2025**. Atualmente curso **Gestão da Tecnologia da Informação (GTI) na Fatec Jahu** e mantenho este repositório como registro da minha evolução em programação e lógica computacional.
 
 ## ▶️ Notebook no Google Colab
 
