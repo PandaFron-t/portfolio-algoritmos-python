@@ -119,4 +119,4 @@ Todos os itens abaixo estão **planejados**.
 
 ## Contexto acadêmico
 
-**João Lucas Lima Faria** — estudante de Gestão da Tecnologia da Informação na **Fatec Jahu**. Este repositório reúne minha base de algoritmos, construída na Unisagrado em 2025, e as revisões posteriores desse material.
+Construída na Unisagrado em 2025
